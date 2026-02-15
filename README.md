@@ -2,4 +2,4 @@
 SQL assignment 3
 
 # 
-By [Quinn](https://quinnlambert.com)
+By [Quinn Lambert](https://quinnlambert.com)
